@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+# Welcome to $$woues1$$'s GitHub Profile!
+
+## About Me
+Hi, I'm woues1! I am a software engineering student with a passion for full-stack development.
+
+## projects
+- i'm currently working on [Microcontroller tracker](https://github.com/0x6A4B/OTP1) 
+
+## currenly learning
+- UX desing
+- DevOps methodologies
+
+
+Thank you for visiting my profile!
+
 <!--
 **woues1/woues1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
