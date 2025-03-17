@@ -11,7 +11,7 @@ Hi, I'm woues1! I am a software engineering student with a passion for full-stac
 ## currenly learning
 - UX desing
 - DevOps methodologies
-
+- Kubernetes
 
 Thank you for visiting my profile!
 
