@@ -6,7 +6,7 @@
 Hi, I'm woues1! I am a software engineering student with a passion for full-stack development.
 
 ## projects
-- i'm currently working on [Microcontroller tracker](https://github.com/0x6A4B/OTP1) 
+- i'm currently working on B2B inventory management system 
 
 ## currenly learning
 - UX desing
