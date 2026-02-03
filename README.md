@@ -9,7 +9,7 @@ Hi, I'm woues1! I am a software engineering student with a passion for full-stac
 - i'm currently working on B2B inventory management system 
 
 ## currenly learning
-- AI systems engineering from [cs249][https://github.com/harvard-edge/cs249r_book]
+- AI systems engineering from ![cs249][https://github.com/harvard-edge/cs249r_book]
 
 Thank you for visiting my profile!
 
